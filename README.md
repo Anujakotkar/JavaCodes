@@ -1,3 +1,3 @@
 # JavaCodes
 <br>
-Author - Anuja Kotkar
+Author - Anuja Prabhakar Kotkar
